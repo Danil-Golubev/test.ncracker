@@ -1,4 +1,4 @@
-# Тестовое задание для Frontend ncracker
+# Тестовое задание для Frontend sgs
 
 ---
 
