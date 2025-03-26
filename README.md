@@ -1,24 +1,17 @@
-# test.ncracker
+# Тестовое задание для Frontend ncracker
 
-## Project setup
-```
-npm install
-```
+---
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Задание 1
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Стек: VueJs, JavaScript
 
-### Lints and fixes files
-```
-npm run lint
-```
+### Используемые библиотеки: pinia, vue-router
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Содержание - страниц: 2, компонентов : 0
+
+---
+
+## Задание 2
+
+### Ответ на задание распологается в корневой папке в файле task2.sql './task2.sql'
