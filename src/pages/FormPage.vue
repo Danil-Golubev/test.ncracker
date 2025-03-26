@@ -168,15 +168,16 @@ export default {
 }
 .selectCustom {
   -webkit-appearance: none;
-  display: flex;
-  text-align: center;
-  cursor: pointer;
-  height: 40px;
+  -moz-appearance: none;
+  appearance: none;
   width: 90%;
+  height: 40px;
   border-radius: 25px;
   font-size: 18px;
   background-color: rgba(167, 173, 255, 0.155);
   color: var(--text-color-1);
   border: none;
+  text-align: center;
+  text-align-last: center;
 }
 </style>
